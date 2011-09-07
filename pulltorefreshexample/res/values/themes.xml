@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Puller" parent="android:Theme.Light">
+    	<item name="puller_text_color">#000</item>
+    </style>
+    
+</resources>
